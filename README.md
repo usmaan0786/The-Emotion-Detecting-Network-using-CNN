@@ -10,10 +10,6 @@ The application of emotion detection using CNN has numerous potential use cases,
 ## Dataset 
 FER-2013 is a dataset of facial expressions, which contains approximately 35,887 labeled facial images with seven different emotional expressions. The seven emotions are anger, disgust, fear, happiness, sadness, surprise, and neutral.
 
-<img align="center"
-  src = "![Dataset](https://user-images.githubusercontent.com/72275107/235315704-c4369aef-4a06-4ec4-a21e-2d382a4442d1.png)"
-</img>
-
 ![Dataset](https://user-images.githubusercontent.com/72275107/235315704-c4369aef-4a06-4ec4-a21e-2d382a4442d1.png)
 
 ## Algorithm 
