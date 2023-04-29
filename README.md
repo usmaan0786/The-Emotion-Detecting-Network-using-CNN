@@ -10,6 +10,8 @@ The application of emotion detection using CNN has numerous potential use cases,
 ## Dataset 
 FER-2013 is a dataset of facial expressions, which contains approximately 35,887 labeled facial images with seven different emotional expressions. The seven emotions are anger, disgust, fear, happiness, sadness, surprise, and neutral.
 
+![Dataset](https://user-images.githubusercontent.com/72275107/235315704-c4369aef-4a06-4ec4-a21e-2d382a4442d1.png)
+
 ## Algorithm 
 Convolutional Neural Network(CNN), which is a type of deep learning neural network that is widely used for image and video processing tasks, such as object recognition, facial recognition, and emotion detection.
 
@@ -19,5 +21,10 @@ CNNs are inspired by the biological structure of the visual cortex in animals, a
 
 ## Results
 
+![results](https://user-images.githubusercontent.com/72275107/235315714-8e5685d2-cbf8-4c63-ab53-75e7c0861a00.png)
+
 ## Testing
+
+![testing](https://user-images.githubusercontent.com/72275107/235315731-9821fa9a-b90c-4fcb-b476-32aea6c12056.png)
+
 
